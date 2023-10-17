@@ -1,3 +1,5 @@
+// Author: Mirzohid Abdurazzoqov - SSE1 - 20221500266
+
 #include <string>
 class FamilyMember {
 protected:
