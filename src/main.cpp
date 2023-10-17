@@ -1,6 +1,6 @@
 int main() {
-    FamilyMember* member1 = new Child("Ahmad", 19, "NewUU");
-    FamilyMember* member2 = new Parent("Azamat", 45, "Accountant");
+    FamilyMember* member1 = new Child("Mirzohid", 20, "NewUU");
+    FamilyMember* member2 = new Parent("Jahongir", 50, "Accountant");
 
     member1->display();
     member2->display();
